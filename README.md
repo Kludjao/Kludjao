@@ -29,11 +29,11 @@
 
 ## 🚀 Projetos em Destaque
 
-*   **[Projeto CLARA](https://github.com/kludjao/clara)** | *Automação e Analytics*
+*   **[Projeto CLARA](https://github.com/Kludjao/clara)** | *Automação e Analytics*
     Desenvolvimento e estruturação da Classificação Lógica e Análise de Reembolsos Automatizada, otimizando processos internos com dados.
-*   **[Looty](https://github.com/kludjao/looty)** | *SaaS & Compliance*
+*   **[Looty](https://github.com/Kludjao/looty)** | *SaaS & Compliance*
     Plataforma de gestão de sorteios SaaS, construída desde o PRD e documentação técnica até a integração de módulos de compliance e frontend.
-*   **[Projeto Égide](https://github.com/kludjao/egide)** | *Segurança & Validação*
+*   **[Projeto Égide](https://github.com/Kludjao/egide)** | *Segurança & Validação*
     Aplicativo focado em segurança com gravação de áudio, com pesquisa, estruturação técnica e validação de MVP.
 
 ---
@@ -41,19 +41,18 @@
 ## 📊 Estatísticas Dinâmicas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kludjao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kludjao&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kludjao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kludjao&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br/>
 
 ## 🐍 Minhas Contribuições
 
-<!-- Animação da cobrinha (Requer GitHub Actions) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kludjao/kludjao/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kludjao/kludjao/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kludjao/kludjao/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kludjao/Kludjao/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kludjao/Kludjao/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kludjao/Kludjao/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
