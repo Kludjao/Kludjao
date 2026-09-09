@@ -29,8 +29,6 @@
 
 ## 🚀 Projetos em Destaque
 
-*   **[Projeto CLARA](https://github.com/Kludjao/clara)** | *Automação e Analytics*
-    Desenvolvimento e estruturação da Classificação Lógica e Análise de Reembolsos Automatizada, otimizando processos internos com dados.
 *   **[Looty](https://github.com/Kludjao/looty)** | *SaaS & Compliance*
     Plataforma de gestão de sorteios SaaS, construída desde o PRD e documentação técnica até a integração de módulos de compliance e frontend.
 *   **[Projeto Égide](https://github.com/Kludjao/egide)** | *Segurança & Validação*
